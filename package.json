@@ -1,0 +1,23 @@
+{
+  "name": "yt-playlist-backup",
+  "version": "1.0.0",
+  "description": "Node.js application that periodically checks videos on a playlist and downloads any new additions, ensuring permanent access to the video, and notifying when a video is deleted from YouTube.",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PepperedJerky/yt-playlist-backup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PepperedJerky/yt-playlist-backup/issues"
+  },
+  "homepage": "https://github.com/PepperedJerky/yt-playlist-backup#readme"
+}
