@@ -1,2 +1,6 @@
-/ytapi-auth.json
-/ytdl-auth.js
+/inputs/yt-api-authentication.js
+/inputs/yt-credentials.js
+youtube-dl-options.txt
+
+/outputs/*
+!/outputs/.gitkeep

@@ -1,6 +1,6 @@
+global.__basedir = __dirname;
 const fs = require('fs');
 const path = require('path');
-const settings = require('./settings');
 require('colors');
 
 if(!fs.existsSync('./ytapi-auth.json')) {
