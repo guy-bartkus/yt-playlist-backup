@@ -7,6 +7,5 @@ module.exports = {
     ],
     audio_only: true,
     out_plname: true,
-    descriptions: true,
-    thumbnails: true
+    descriptions: true
 }
